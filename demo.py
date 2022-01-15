@@ -3,6 +3,11 @@
 Created on Fri Jan 14 16:03:25 2022
 
 @author: Jerry
+
+reference:
+    https://github.com/rmislam/PythonSIFT
+    https://github.com/adumrewal/SIFTImageSimilarity
+    https://gist.github.com/tigercosmos/90a5664a3b698dc9a4c72bc0fcbd21f4
 """
 import os
 import cv2
